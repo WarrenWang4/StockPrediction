@@ -4,5 +4,5 @@ The overall goal of this project is to derive insights and conclusions regarding
 ### Data
 We got the data used to analyze the stocks from: https://www.kaggle.com/camnugent/sandp500
 ### Team Name and Members
-##### Data Partners:
+#### Data Partners:
 Jacob Pfeiffer, Karen Setiawan, Fei-Shian Tzeng, Harrison Heeb, and Warren Wang
